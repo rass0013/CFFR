@@ -129,6 +129,8 @@
   <ItemGroup>
     <Content Include="Assets\Logo\cffr-large.png" />
     <Content Include="Assets\Logo\cffr-web.png" />
+    <Content Include="Assets\Logo\fav.png" />
+    <Content Include="Assets\photos\Under-Construction.png" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
